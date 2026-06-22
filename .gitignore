@@ -1,0 +1,5 @@
+# Ignore model directories and large binary assets
+# Ignore any folder named Models (case-sensitive)
+**/Models/
+# Optionally ignore virtual environment directories
+venv/
