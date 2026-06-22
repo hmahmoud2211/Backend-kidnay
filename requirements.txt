@@ -8,4 +8,3 @@ lightgbm==4.6.0
 catboost==1.2.10
 scikit-learn==1.6.1
 xgboost==2.1.4
-scipy==1.13.1
